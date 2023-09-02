@@ -1,10 +1,4 @@
 - 👋 Olá, tudo bem? Sou estudante de Análise e Desenvolvimento de Sistemas na SPTECH SCHOOL, apaixonada por tecnologia e programação;
-- 👀 Atualmente, estou explorando diversas áreas, desde desenvolvimento web até ciência de dados.
-
-## Interesses
-- Desenvolvimento Web e Mobile;
-- Ciência de Dados e Análise de Dados;
-- Aprender novas linguagens de programação.
   
 ## Tecnologias em Aprendizado
 
