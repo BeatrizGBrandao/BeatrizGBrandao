@@ -17,7 +17,7 @@
 <br><div align="center">
   <a href="">
   <img width="200" src="octocat-BeatrizGBrandao.png">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=BeatrizGBrandao&theme=rose&hide_border=true&border_radius=5.8&date_format=M%20j%5B%2C%20Y%5D&card_width=700&type=png&hide_longest_streak=true">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=BeatrizGBrandao&theme=rose&hide_border=true&border_radius=5.8&date_format=M%20j%5B%2C%20Y%5D&card_width=450&type=png&hide_longest_streak=true">
 </div>
 
 
