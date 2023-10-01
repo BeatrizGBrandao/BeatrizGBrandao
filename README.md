@@ -22,10 +22,10 @@ const aboutMe = {
  </div>
 
 <br><div align="center">
-  <a href="">
-  <img width="200" src="octocat-BeatrizGBrandao.png">
-  [![card](https://github-readme-stats.vercel.app/api?username=BeatrizGBrandao&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizGBrandao&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+    <img width="200" src="octocat-BeatrizGBrandao.png">
+    <img width="300" src="https://github-readme-stats.vercel.app/api?username=BeatrizGBrandao&theme=dracula&show_icons=true">
+    <img width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizGBrandao&layout=compact&theme=dracula">
 </div>
+
 
 
