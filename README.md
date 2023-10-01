@@ -1,4 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=25&duration=4000&pause=300&color=FB2C4C&center=true&width=1000&lines=Hello%2C+fellow+coders!;I'm+a+student+of+Analysis+and+Systems+Development+at+SPTECH+SCHOOL%2C;passionate+about+technology+and+programming.;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+# 👩‍💻👋 Hello, fellow coders!
+
+```javascript
+const aboutMe = {
+  name: "Beatriz Gabriela",
+  role: "Passionate about continuous learning",
+  motto: "Always in pursuit of knowledge, and the key to my productivity? A good coffee, of course!",
+  currentFocus: "Pursuing a degree in Analysis and Systems Development at SPTech School",
+  coffeePreference: "Always strong, hot, and with sugar",
+  hobbies: ["Coding", "Exploring new technologies", "Tasting coffees from around the world"],
+};
+```
   
 ## Learning Technologies
 
@@ -10,14 +21,11 @@
   <img align="center" alt="logo-github" height="50" width="70" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" title="Logo GitHub">
  </div>
 
- ## Featured Projects
-
-<b>🌱 Under construction... (Follow through repositories)</b>
-  
 <br><div align="center">
   <a href="">
   <img width="200" src="octocat-BeatrizGBrandao.png">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=BeatrizGBrandao&theme=rose&hide_border=true&border_radius=5.8&date_format=M%20j%5B%2C%20Y%5D&card_width=450&type=png&hide_longest_streak=true">
+  [![card](https://github-readme-stats.vercel.app/api?username=BeatrizGBrandao&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizGBrandao&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
