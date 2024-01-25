@@ -1,30 +1,42 @@
-# 👩‍💻👋 Hello, fellow coders!
+## 👋 Hi there, I am Beatriz!
 
-```javascript
+<div style="display: grid; grid-template-columns: '1fr 1fr';">
+  
+  ```javascript
 const aboutMe = {
-  name: "Beatriz Gabriela",
+  name: "Beatriz Brandão",
   role: "Passionate about continuous learning",
-  motto: "Always in pursuit of knowledge, and the key to my productivity? A good coffee, of course!",
-  currentFocus: "Pursuing a degree in Analysis and Systems Development at SPTech School",
-  coffeePreference: "Always strong, hot, and with sugar",
-  hobbies: ["Coding", "Exploring new technologies", "Tasting coffees from around the world"],
+  technologies: ["HTML, "CSS", "JavaScript", "Angular", "Node.js", "MySQL", "Java"],
+  currentFocus: "Pursuing a degree in Analysis and Systems Development and exploring areas of CRM and Product Management.",
+  howToReachMe: {
+      email: "beatrizgbcomercial@gmail.com",
+      linkedin: "linkedin.com/in/beatriz-brand%C3%A3o-81ba88252",
+    },
 };
 ```
+</div>
   
-## Learning Technologies
+## 👩‍💻 I'm Currently Learning
 
-<div style="display: inline-block">
-  <img align="center" alt="logo-js" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Logo Javascript">
-  <img align="center" alt="logo-html" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="Logo HTML5">
-  <img align="center" alt="logo-css" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="Logo CSS3">
-  <img align="center" alt="logo-mysql" height="60" width="80" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" title="Logo MySQL">
-  <img align="center" alt="logo-github" height="50" width="70" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" title="Logo GitHub">
- </div>
-
-<br><div align="center">
-    <img width="200" src="octocat-BeatrizGBrandao.png">
-    <img width="300" src="https://github-readme-stats.vercel.app/api?username=BeatrizGBrandao&theme=dracula&show_icons=true">
-    <img width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizGBrandao&layout=compact&theme=dracula">
+<div >
+ <h4>📚 SPTech School</h4>
+  <ul>
+    <li>Java</li>
+    <li>Object-Oriented Programming (OOP)</li>
+  </ul>
+  <h4>📚 Dio. - Bootcamp</h4>
+  <ul>
+    <li>Front-end development with Angular</li>
+  </ul>
+  <h4>📚 TrailHead - Salesforce</h4>
+  <ul>
+     <li><strong>Salesforce Development</strong>: Apex, Lightning Web Components (LWC), Salesforce CLI, Salesforce API...</li>
+     <li><strong>Salesforce Administration</strong>: Objects and Fields, Page Layouts, Workflow Rules, Automation, Data Management...</li>
+  </ul>
+   
+</div>
+<div>
+    <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizGBrandao&layout=compact&theme=dracula">
 </div>
 
 
