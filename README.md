@@ -30,8 +30,8 @@ const aboutMe = {
   </ul>
   <h4>📚 TrailHead - Salesforce</h4>
   <ul>
-     <li><strong>Salesforce Development</strong>: Apex, Lightning Web Components (LWC), Salesforce CLI, Salesforce API...</li>
-     <li><strong>Salesforce Administration</strong>: Objects and Fields, Page Layouts, Workflow Rules, Automation, Data Management...</li>
+     <li>Salesforce Development</li>
+     <li>Salesforce Administration</li>
   </ul>
    
 </div>
