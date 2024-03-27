@@ -24,10 +24,7 @@ const aboutMe = {
     <li>Java</li>
     <li>Object-Oriented Programming (OOP)</li>
   </ul>
-  <h4>📚 Dio. - Bootcamp</h4>
-  <ul>
-    <li>Front-end development with Angular</li>
-  </ul>
+  <h4>📚 Angular</h4>
   <h4>📚 TrailHead - Salesforce</h4>
   <ul>
      <li>Salesforce Development</li>
