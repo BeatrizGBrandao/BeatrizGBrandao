@@ -16,7 +16,7 @@ const aboutMe = {
 ```
 </div>
   
-## 👩‍💻 I'm Currently Learning
+<!-- ## 👩‍💻 I'm Currently Learning
 
 <div >
  <h4>📚 SPTech School</h4>
@@ -31,7 +31,8 @@ const aboutMe = {
      <li>Salesforce Administration</li>
   </ul>
    
-</div>
+</div> --!>
+
 <div>
     <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizGBrandao&layout=compact&theme=dracula">
 </div>
