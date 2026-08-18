@@ -1,41 +1,57 @@
-## 👋 Hi there, I am Beatriz!
+# Hi, I'm Beatriz 👋
 
-<div style="display: grid; grid-template-columns: '1fr 1fr';">
-  
-  ```javascript
-const aboutMe = {
-  name: "Beatriz Brandão",
-  role: "Passionate about continuous learning",
-  technologies: ["HTML, "CSS", "JavaScript", "Angular", "Node.js", "MySQL", "Java"],
-  currentFocus: "Pursuing a degree in Analysis and Systems Development and exploring areas of CRM and Product Management.",
-  howToReachMe: {
-      email: "beatrizgbcomercial@gmail.com",
-      linkedin: "linkedin.com/in/beatriz-brand%C3%A3o-81ba88252",
-    },
-};
-```
-</div>
-  
-<!-- ## 👩‍💻 I'm Currently Learning
+I'm currently pursuing a **Bachelor's degree in Information Systems at PUC Minas** and I previously completed a degree in **Analysis and Systems Development at SPTech School**.
 
-<div >
- <h4>📚 SPTech School</h4>
-  <ul>
-    <li>Java</li>
-    <li>Object-Oriented Programming (OOP)</li>
-  </ul>
-  <h4>📚 Angular</h4>
-  <h4>📚 TrailHead - Salesforce</h4>
-  <ul>
-     <li>Salesforce Development</li>
-     <li>Salesforce Administration</li>
-  </ul>
-   
-</div> --!>
+My background combines technology and product. I've worked with Salesforce and I'm currently working with digital products, while continuing to develop my technical skills in software development, data and AI.
 
-<div>
-    <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizGBrandao&layout=compact&theme=dracula">
-</div>
+## 💻 Tech
 
+* Kotlin
+* Java
+* SQL
+* Salesforce
+* REST APIs
+* Git & GitHub
+* Android / Jetpack Compose
 
+## 📚 What I'm currently studying
 
+Right now, I'm getting back into programming and focusing mainly on:
+
+* Kotlin and Java
+* AI and its applications in products and technology
+
+## 🚀 Projects
+
+### 🐾 PetCare
+
+Academic project developed with my team using **Kotlin and Jetpack Compose** for the mobile application.
+
+I worked on different parts of the app, including:
+
+* 🔐 Authentication and navigation
+* 🐶 Pet registration and editing
+* 📅 Appointment screens and filters
+* 🔗 API integrations
+* 💳 Payment flow
+* 🛠️ Bug fixes and UI improvements
+
+[View the project](https://github.com/TeamPetCare/petcare-app)
+
+## 🎓 Education
+
+**Bachelor's in Information Systems**
+📍 PUC Minas — In progress
+
+**Analysis and Systems Development**
+📍 SPTech School — Completed
+
+## 📜 Certifications
+
+* ☁️ Salesforce Certified Administrator
+* 🤖 Salesforce Certified Agentforce Specialist
+
+## 📫 Contact
+
+[LinkedIn]([https://www.linkedin.com/in/beatriz-brand%C3%A3o-81ba88252/](https://www.linkedin.com/in/beatrizgabrielabrandao/))
+[GitHub](https://github.com/BeatrizGBrandao)
