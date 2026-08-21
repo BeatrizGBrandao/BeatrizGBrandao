@@ -1,42 +1,50 @@
 # Hi, I'm Beatriz 👋
 
-I'm currently pursuing a **Bachelor's degree in Information Systems at PUC Minas** and I previously completed a degree in **Analysis and Systems Development at SPTech School**.
+I'm a product analyst at Itaú Unibanco, currently transitioning more deeply into **software development with Kotlin**. I have a degree in **analysis and systems development from SPTech School** and I'm currently pursuing a **bachelor's degree in information systems at PUC Minas**.
 
-My background combines technology and product. I've worked with Salesforce and I'm currently working with digital products, while continuing to develop my technical skills in software development, data and AI.
+My career has always been somewhere between business and technology. I've worked with Salesforce, automation and development, and today I work with digital products alongside engineering, data and design teams. Right now, I'm getting back to coding more consistently and focusing on **Kotlin, Java and AI applied to software development**.
 
 ## 💻 Tech
 
 * Kotlin
 * Java
 * SQL
-* Salesforce
+* Android / Jetpack Compose
 * REST APIs
 * Git & GitHub
-* Android / Jetpack Compose
+* Salesforce / Salesforce Flow / Agentforce
+* Apex / LWC / SOQL
 
-## 📚 What I'm currently studying
+## 🤖 Currently exploring
 
-Right now, I'm getting back into programming and focusing mainly on:
+I'm especially interested in how AI can be used beyond productivity tools and actually become part of software and product experiences.
 
-* Kotlin and Java
-* AI and its applications in products and technology
+At the moment, I'm studying and experimenting with:
+
+* LLMs and AI agents
+* AI applied to software development
+* Automation with Copilot and Salesforce
+* Machine Learning fundamentals
+* Java + Spring Boot
 
 ## 🚀 Projects
 
 ### 🐾 PetCare
 
-Academic project developed with my team using **Kotlin and Jetpack Compose** for the mobile application.
+PetCare was an academic project developed with my team using **Kotlin and Jetpack Compose**.
 
-I worked on different parts of the app, including:
+It is an Android app focused on pet care, with features such as pet management, appointments and payments.
+
+Some of the parts I worked on:
 
 * 🔐 Authentication and navigation
-* 🐶 Pet registration and editing
-* 📅 Appointment screens and filters
-* 🔗 API integrations
-* 💳 Payment flow
+* 🐶 Pet registration, editing and deletion
+* 📅 Appointment details and filters
+* 🔗 Backend/API integrations
+* 💳 Payment flows
 * 🛠️ Bug fixes and UI improvements
 
-[View the project](https://github.com/TeamPetCare/petcare-app)
+[View PetCare](https://github.com/TeamPetCare/petcare-app)
 
 ## 🎓 Education
 
@@ -48,10 +56,10 @@ I worked on different parts of the app, including:
 
 ## 📜 Certifications
 
-* ☁️ Salesforce Certified Administrator
 * 🤖 Salesforce Certified Agentforce Specialist
+* ☁️ Salesforce Certified Administrator
+* 🧠 Salesforce Certified AI Associate
 
-## 📫 Contact
+## 📫 Let's connect
 
-[LinkedIn]([https://www.linkedin.com/in/beatriz-brand%C3%A3o-81ba88252/](https://www.linkedin.com/in/beatrizgabrielabrandao/))
-[GitHub](https://github.com/BeatrizGBrandao)
+[LinkedIn](https://www.linkedin.com/in/beatrizgabrielabrandao/) • [GitHub](https://github.com/BeatrizGBrandao)
